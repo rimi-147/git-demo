@@ -27,8 +27,9 @@ Mandatory Commands:
 >> Git remote romove origin https://github.com/rimi-147/git-demo.git
 
 git pull origin main
-
-
+git status
+git chekout -b "day1Branch"
+git chekout -b "BranchName"
 
 
 
